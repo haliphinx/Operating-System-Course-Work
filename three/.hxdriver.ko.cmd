@@ -1,0 +1,1 @@
+cmd_/home/hx/procedure/3/hxdriver.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hx/procedure/3/hxdriver.ko /home/hx/procedure/3/hxdriver.o /home/hx/procedure/3/hxdriver.mod.o
